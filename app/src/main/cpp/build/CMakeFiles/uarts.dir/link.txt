@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/uarts.dir/UartRW.cpp.o -o uarts 

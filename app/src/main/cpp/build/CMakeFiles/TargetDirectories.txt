@@ -1,0 +1,3 @@
+/home/chint/AndroidStudioProjects/Uarts/app/src/main/cpp/build/CMakeFiles/uarts.dir
+/home/chint/AndroidStudioProjects/Uarts/app/src/main/cpp/build/CMakeFiles/edit_cache.dir
+/home/chint/AndroidStudioProjects/Uarts/app/src/main/cpp/build/CMakeFiles/rebuild_cache.dir
